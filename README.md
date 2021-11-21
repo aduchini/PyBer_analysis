@@ -9,11 +9,15 @@ This analysis will help the company improve access to ridesharing services and d
 As shown by the summary below, there are more drivers than rides in urban centers, while rural and suburban locations are underserved.
 
 ![screenshot of summary of total and average fares per type of city](analysis/average_fares.png)
+
+
 *Summary of total and average fares per type of city.*
 
 A large percentage of the fares are spent in urban areas (68% of rides are in urban cities), however the average fare per driver is lower than the average fare per ride, due to a large portion of the drivers being idle.
 
 ![plot of fares per week in 2019 for each type of city](analysis/PyBer_fare_summary.png)
+
+
 *Plot chart of average fares per week between January and April 2019 for each type of city.*
 
 As shown above, there is currently less total spend in rural and suburban areas per week, but the cost of a single ride is considerably higher in these locations.
